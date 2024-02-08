@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1693754250165_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1693754250181_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1693754370249_3" label="MavenFaceBook" name="MavenFaceBook">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FaceBooks" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MavenFacebook" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/End_To_End_Testing" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1693754251647_2" label="Window Working Set" name="Aggregate for window 1693754251639"/>
+</workingSetManager>

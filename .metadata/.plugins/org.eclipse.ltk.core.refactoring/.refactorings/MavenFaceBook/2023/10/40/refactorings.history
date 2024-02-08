@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;baseClass&apos; to &apos;RahulShettyAcademy/src&apos;&#x0D;&#x0A;- Original project: &apos;MavenFacebook&apos;&#x0D;&#x0A;- Destination element: &apos;RahulShettyAcademy/src&apos;&#x0D;&#x0A;- Original element: &apos;MavenFacebook/src/test/java/baseClass&apos;" description="Copy package" destination="=RahulShettyAcademy/src" element1="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;baseClass" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1696351261981" version="1.0"/>
+</session>

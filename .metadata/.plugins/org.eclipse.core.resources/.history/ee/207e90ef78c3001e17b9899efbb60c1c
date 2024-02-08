@@ -1,0 +1,21 @@
+package strings;
+
+public class Logest_Word {
+
+	public static String main(String[] args) {
+		String[] words= {"My","Name","Is","Aranganambi"};
+		
+			 // String[] words = str.split(" ");
+			  String longestWord = words[0];
+			  for (int i = 1; i < words.length; i++) {
+			    if (words[i].length() > longestWord.length()) {
+			      longestWord = words[i];
+			    }
+			  }
+			  System.out.println(longestWord);
+			}
+		
+
+	}
+
+
